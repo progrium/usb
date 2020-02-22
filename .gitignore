@@ -1,0 +1,6 @@
+index/
+json/
+previews/
+videos/*.mkv
+*.old
+usb
