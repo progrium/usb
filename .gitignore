@@ -3,4 +3,4 @@ json/
 previews/
 videos/*.mkv
 *.old
-usb
+/usb
